@@ -1,0 +1,25 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Inception",
+        "imageUrl": "https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg",
+        "description": "A mind-bending thriller about dreams within dreams."
+      },
+      {
+        "id": 2,
+        "title": "The Dark Knight",
+        "imageUrl": "https://image.tmdb.org/t/p/w500/1hRoyzDtpgMU7Dz4JF22RANzQO7.jpg",
+        "description": "Batman faces off against the Joker in a battle for Gotham."
+      },
+      {
+        "id": 3,
+        "title": "The Matrix",
+        "imageUrl": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+        "description": "A hacker discovers the truth about reality and artificial intelligence."
+      }
+    ]
+  }
+  
+  
+  
