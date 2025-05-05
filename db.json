@@ -1,325 +1,364 @@
 {
-    "movies": [
-      {
-        "id": "1197306",
-        "title": "A Working Man",
-        "description": "Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/xUkUZ8eOnrOnnJAfusZUqKYZiDu.jpg",
-        "rating": 6.493,
-        "category": "Movie"
-        "videoUrl"; "https://localhost 3000/www.youtube.com/watch?v=dQw4w9WgXcQ"
-      },
-      {
-        "id": "1233069",
-        "title": "Exterritorial",
-        "description": "When her son vanishes inside a US consulate, ex-special forces soldier Sara does everything in her power to find him — and uncovers a dark conspiracy.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/qWTfHG8KdXwr0bqypYbNZLenh0J.jpg",
-        "rating": 7,
-        "category": "Movie"
-      },
-      {
-        "id": "668489",
-        "title": "Havoc",
-        "description": "When a drug heist swerves lethally out of control, a jaded cop fights his way through a corrupt city's criminal underworld to save a politician's son.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/r46leE6PSzLR3pnVzaxx5Q30yUF.jpg",
-        "rating": 6.627,
-        "category": "Movie"
-      },
-      {
-        "id": "950387",
-        "title": "A Minecraft Movie",
-        "description": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/iPPTGh2OXuIv6d7cwuoPkw8govp.jpg",
-        "rating": 6.2,
-        "category": "Movie"
-      },
-      {
-        "id": "1471014",
-        "title": "Van Gogh by Vincent",
-        "description": "In a career that lasted only ten years, Vincent Van Gogh painted one subject more than any other: himself. This is the story of Vincent told using eight of his most iconic self-portraits.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/z73X4WKZghBh5fri31o8P6vBEB2.jpg",
-        "rating": 6.409,
-        "category": "Movie"
-      },
-      {
-        "id": "1225915",
-        "title": "Jewel Thief: The Heist Begins",
-        "description": "In this high-octane battle of wits and wills, ingenious con artist Rehan devises a diamond heist while trying to outsmart Rajan, his sadistic adversary.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/eujLbO0kf1eqWC8XpHUJdtAVW2J.jpg",
-        "rating": 7.2,
-        "category": "Movie"
-      },
-      {
-        "id": "986056",
-        "title": "Thunderbolts*",
-        "description": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
-        "rating": 7.6,
-        "category": "Movie"
-      },
-      {
-        "id": "324544",
-        "title": "In the Lost Lands",
-        "description": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where she and her guide, the drifter Boyce, must outwit and outfight both man and demon.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
-        "rating": 6.303,
-        "category": "Movie"
-      },
-      {
-        "id": "822119",
-        "title": "Captain America: Brave New World",
-        "description": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
-        "rating": 6.165,
-        "category": "Movie"
-      },
-      {
-        "id": "1180906",
-        "title": "Desert Dawn",
-        "description": "A newly appointed small-town sheriff and his begrudging deputy get tangled up in a web of lies and corruption involving shady businessmen and the cartel while investigating the murder of a mysterious woman.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/S21BfLrJSD9njucBfY3CKqp8rD.jpg",
-        "rating": 0,
-        "category": "Movie"
-      },
-      {
-        "id": "1276073",
-        "title": "Bullet Train Explosion",
-        "description": "When panic erupts on a Tokyo-bound bullet train that will explode if it slows below 100 kph, authorities race against time to save everyone on board.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/uxYMN7egzwU9dQWmlm9tVTVpBbe.jpg",
-        "rating": 6.888,
-        "category": "Movie"
-      },
-      {
-        "id": "348",
-        "title": "Alien",
-        "description": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
-        "rating": 8.163,
-        "category": "Movie"
-      },
-      {
-        "id": "1124620",
-        "title": "The Monkey",
-        "description": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg",
-        "rating": 5.888,
-        "category": "Movie"
-      },
-      {
-        "id": "1414048",
-        "title": "Day of Reckoning",
-        "description": "Put-upon lawman John Dorsey is on the verge of losing his wife and his job as sheriff, so he posses up with bullish U.S. Marshall Butch Hayden to hold outlaw Emily Rusk hostage. A battle of wills ensues as Emily turns the posse on themselves, but as her marauding husband and his gang approach, Emily and John realize they will need each other to survive.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/cVSjSQryFUERYSdOmdgJ2m0eBte.jpg",
-        "rating": 6.583,
-        "category": "Movie"
-      },
-      {
-        "id": "1153714",
-        "title": "Death of a Unicorn",
-        "description": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature’s miraculous curative properties.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/lXR32JepFwD1UHkplWqtBP1K79z.jpg",
-        "rating": 6.2,
-        "category": "Movie"
-      },
-      {
-        "id": "1233413",
-        "title": "Sinners",
-        "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg",
-        "rating": 7.7,
-        "category": "Movie"
-      },
-      {
-        "id": "1356236",
-        "title": "Saint Catherine",
-        "description": "An orphaned girl is rescued from a satanic ritual and taken to Saint Catherine Institute for homeless youth. There she will learn new skills while facing demons that stalk her.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/hBJdzKPeDaC96AzlrtMWBomYSZV.jpg",
-        "rating": 6.273,
-        "category": "Movie"
-      },
-      {
-        "id": "335984",
-        "title": "Blade Runner 2049",
-        "description": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
-        "rating": 7.579,
-        "category": "Movie"
-      },
-      {
-        "id": "374720",
-        "title": "Dunkirk",
-        "description": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
-        "rating": 7.45,
-        "category": "Movie"
-      },
-      {
-        "id": "1092899",
-        "title": "The Siege",
-        "description": "International assassin Walker is compromised during a mission and sent to a reassignment center for a new identity. During his stay at the facility, a ruthless assault team storms the compound searching for someone their boss has lost. Walker begrudgingly falls in with skilled hitwoman Elda and her mysterious ward Juliet in order to survive the night.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/hVh4hMzkXNLnScudbid6hDvjMPk.jpg",
-        "rating": 5.3,
-        "category": "Movie"
-      },
-      {
-        "id": "23945",
-        "title": "Gute Zeiten, schlechte Zeiten",
-        "description": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
-        "rating": 5.784,
-        "category": "Anime"
-      },
-      {
-        "id": "12261",
-        "title": "The Tonight Show Starring Johnny Carson",
-        "description": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
-        "rating": 7.5,
-        "category": "Anime"
-      },
-      {
-        "id": "55789",
-        "title": "Sturm der Liebe",
-        "description": "These are the stories of relationships taking place in the fictional five-star hotel Fürstenhof, located in Feldkirchen-Westerham near Rosenheim with the plot revolving around members of the family room area, the hotel owners, and employees.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
-        "rating": 6.041,
-        "category": "Anime"
-      },
-      {
-        "id": "32980",
-        "title": "Watch What Happens Live with Andy Cohen",
-        "description": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-        "rating": 5,
-        "category": "Anime"
-      },
-      {
-        "id": "24686",
-        "title": "Alles was zählt",
-        "description": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/zExwkyO7exxrMVrpOkDvK0BTelW.jpg",
-        "rating": 4.5,
-        "category": "Anime"
-      },
-      {
-        "id": "18590",
-        "title": "Plus belle la vie",
-        "description": "The daily lives of the inhabitants of \"le Mistral\", an imaginary neighbourhood in the Mediterranean port city of Marseille, where wealthy families cross paths with the less than rich.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/jmU8HlTDn87xmRqXagcL2swDr8I.jpg",
-        "rating": 4.2,
-        "category": "Anime"
-      },
-      {
-        "id": "236270",
-        "title": "Love in Pavilion",
-        "description": "It tells the story of Dongfang Huaizhu and Wangquan Hongye, the leaders of two major families, the Dongfangs and the Wangquans. In a time when humans and demons are in conflict, they work together to stabilize the situation in order to revive the Unity Alliance. On the seventh day of the seventh month, at the Bamboo Pavilion by the Huai River, their fates intertwine like the sheaths of two swords, never to be separated. They pick up the most heartwarming promise and tell a story that has endured for generations.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/rz9njPrgpOWKlXeU3e3lvMChjnD.jpg",
-        "rating": 8.7,
-        "category": "Anime"
-      },
-      {
-        "id": "73770",
-        "title": "The Late Show with Stephen Colbert",
-        "description": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater. Stephen Colbert, Chris Licht, Tom Purcell, and Jon Stewart are executive producers. Barry Julien and Denise Rehrig serve as co-executive producers.must watch",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
-        "rating": 6.4,
-        "category": "Anime"
-      },
-      {
-        "id": "24981",
-        "title": "The Late Late Show with Craig Ferguson",
-        "description": "The Late Late Show with Craig Ferguson is an American late-night talk show hosted by Scottish American comedian Craig Ferguson, who is the third regular host of the Late Late Show franchise. It follows Late Show with David Letterman in the CBS late-night lineup, airing weekdays in the US at 12:37 a.m. It is taped in front of a live studio audience from Monday to Friday at CBS Television City in Los Angeles, California, directly above the Bob Barker Studio. It is produced by David Letterman's production company Worldwide Pants Incorporated and CBS Television Studios.\n\nSince becoming host on January 3, 2005, after Craig Kilborn and Tom Snyder, Ferguson has achieved the highest ratings since the show's inception in 1995. While the majority of the episodes focus on comedy, Ferguson has also addressed difficult subject matter, such as the deaths of his parents, and undertaken serious interviews, such as one with Desmond Tutu, which earned the show a 2009 Peabody Award.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/gGC7zSDgG0FY0MbM1pjfhTCWQBI.jpg",
-        "rating": 6.832,
-        "category": "Anime"
-      },
-      {
-        "id": "10224",
-        "title": "Match of the Day",
-        "description": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised by Guinness World Records in 2015.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
-        "rating": 7.4,
-        "category": "Anime"
-      },
-      {
-        "id": "60821",
-        "title": "Among Friends",
-        "description": "Miklós introduces viewers into the world of Money and Charm.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/mT6VFzwGPddwGjWGxzNOy4JVL8.jpg",
-        "rating": 3.423,
-        "category": "Anime"
-      },
-      {
-        "id": "24610",
-        "title": "Secret Lives",
-        "description": "Salatut elämät (Secret Lives) is a Finnish television soap opera that premiered on MTV3 on 25 January 1999. The series' storylines follow the daily lives of several families who live in the same apartment block in Helsinki.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
-        "rating": 4.5,
-        "category": "Anime"
-      },
-      {
-        "id": "71818",
-        "title": "Late Night with Seth Meyers",
-        "description": "Seth Meyers, who is \"Saturday Night Live’s\" longest serving anchor on the show’s wildly popular \"Weekend Update,\" takes over as host of NBC’s \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/rw0QaegwgKbRoB2CZe2lfewltT9.jpg",
-        "rating": 5.359,
-        "category": "Anime"
-      },
-      {
-        "id": "11636",
-        "title": "Top of the Pops",
-        "description": "The biggest stars, the most iconic performances, the most outrageous outfits – it’s Britain’s number one pop show.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/jjfTTjVYWyD6rGHVbnC44IrsJ7P.jpg",
-        "rating": 3,
-        "category": "Anime"
-      },
-      {
-        "id": "50605",
-        "title": "Die Harald Schmidt Show",
-        "description": "The Harald Schmidt Show is a German late night talk show hosted on Sky Deutschland by comedian Harald Schmidt. The show first aired from 5 December 1995 to 23 December 2003 on Sat.1. Schmidt then moved his show to Das Erste as Harald Schmidt and Schmidt & Pocher, but he returned to Sat.1 on 13 September 2011. After cancellation on Sat.1, the show continued on Sky Deutschland in September 2012.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/lQcE1AzjDP5zJRUW76PMRn7ai9W.jpg",
-        "rating": 7,
-        "category": "Anime"
-      },
-      {
-        "id": "12734",
-        "title": "Law & Order: Special Victims Unit",
-        "description": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/abWOCrIo7bbAORxcQyOFNJdnnmR.jpg",
-        "rating": 7.94,
-        "category": "Anime"
-      },
-      {
-        "id": "110088",
-        "title": "The Last of Us",
-        "description": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
-        "rating": 8.6,
-        "category": "Anime"
-      },
-      {
-        "id": "12224",
-        "title": "The Daily Show",
-        "description": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-        "rating": 6.367,
-        "category": "Anime"
-      },
-      {
-        "id": "104722",
-        "title": "Tagesschau",
-        "description": "German daily news program, the oldest still existing program on German television.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-        "rating": 6.748,
-        "category": "Anime"
-      },
-      {
-        "id": "46062",
-        "title": "Best Friends",
-        "description": "Best Friends follows the life of a group of friends at their high school ‘Spangalis College’. Inside and outside of school exciting and challenging experiences take place. Growing up is never easy; every character has its own, unique story of love, friendship, loneliness, sorrow, discovery. There is drama and joy in school, family, teachers, parents, divorce, bullying, and always dreams for the future.",
-        "imageUrl": "https://image.tmdb.org/t/p/w500/2bH7QQ7WQfnbt1CWiX8BE5E2V4t.jpg",
-        "rating": 3,
-        "category": "Anime"
-      }
-    ]
-  }
+  "movies": [
+    {
+      "id": "1197306",
+      "title": "Peaky Blinders",
+      "description": "A gangster family epic set in 1919 Birmingham, England, and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/jqmabgC7bT6pViDNISd4qWB1kzT.jpg",
+      "rating": 9.493,
+      "videoUrl": "https://www.youtube.com/watch?v=SRE5pZwNyrw",
+      "category": "Movie"
+    },
+    {
+      "id": "1233069",
+      "title": "Naruto Shippuden",
+      "description": "Naruto Shippuden is the sequel to the original Naruto series. It follows Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
+      "rating": 9,
+      "videoUrl": "https://www.youtube.com/watch?v=1WLO0Owi5-A",
+      "category": "Anime"
+    },
+    {
+      "id": "668489",
+      "title": "Havoc",
+      "description": "When a drug heist swerves lethally out of control, a jaded cop fights his way through a corrupt city's criminal underworld to save a politician's son.",
+      "imageUrl": "https://image.tmdb.org/t/p/w500/r46leE6PSzLR3pnVzaxx5Q30yUF.jpg",
+      "rating": 6.627,
+      "videoUrl": "https://www.youtube.com/watch?v=HAQfDRvrU0s",
+      "category": "Movie"
+    },
+    {
+      "id": "950387",
+      "title": "Ben 10",
+      "description": "When 10-year-old Ben Tennyson discovers a mysterious device, he gains the power to change into ten different alien heroes, each with uniquely awesome powers. With such abilities at his disposal, Ben realizes a greater responsibility to help others and stop evildoers, but that doesn't mean he's above a little superpowered mischief now and then.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/lU1ollblNqLSAof7fzvfiHSqb9C.jpg",
+      "rating": 8.2,
+      "videoUrl": "https://www.youtube.com/watch?v=opR_2-IBw8E",
+      "category": "Anime"
+    },
+    {
+      "id": "1471014",
+      "title": "Money Heist",
+      "description": "A criminal mastermind who goes by 'The Professor' recruits a band of robbers to carry out an ambitious plan to rob the Royal Mint of Spain.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/tNlkKrypFs6QSUjFVQntFISoFv5.jpg",
+      "rating": 8.2,
+      "videoUrl": "https://www.youtube.com/watch?v=_InqQJRqGW4&t=10s",
+      "category": "Movie"
+    },
+    {
+      "id": "1225915",
+      "title": "Jewel Thief: The Heist Begins",
+      "description": "In this high-octane battle of wits and wills, ingenious con artist Rehan devises a diamond heist while trying to outsmart Rajan, his sadistic adversary.",
+      "imageUrl": "https://image.tmdb.org/t/p/w500/eujLbO0kf1eqWC8XpHUJdtAVW2J.jpg",
+      "rating": 7.2,
+      "videoUrl": "https://www.youtube.com/watch?v=_dUNLPNfS8s",
+      "category": "Movie"
+    },
+    {
+      "id": "986056",
+      "title": "Thunderbolts*",
+      "description": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+      "imageUrl": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+      "rating": 7.6,
+      "videoUrl": "https://www.youtube.com/watch?v=Oe61Le-kmow",
+      "category": "Movie"
+    },
+    {
+      "id": "324544",
+      "title": "In the Lost Lands",
+      "description": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where she and her guide, the drifter Boyce, must outwit and outfight both man and demon.",
+      "imageUrl": "https://image.tmdb.org/t/p/w500/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
+      "rating": 7.303,
+      "videoUrl": "https://www.youtube.com/watch?v=CMyrp5Vk3mU",
+      "category": "Movie"
+    },
+    {
+      "id": "822119",
+      "title": "Captain America: Brave New World",
+      "description": "After the events of \"The Falcon and the Winter Soldier\", Sam Wilson takes on the mantle of Captain America and must face a new threat to the world.",
+      "imageUrl": "https://image.tmdb.org/t/p/w500/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+      "rating": 6.165,
+      "videoUrl": "https://www.youtube.com/watch?v=1pHDWnXmK7Y",
+      "category": "Movie"
+    },
+    {
+      "id": "1180906",
+      "title": "Puss in Boots: The Three Diablos",
+      "description": "Puss in Boots is on a mission to recover the Princess' stolen ruby from the notorious French thief, Whisperer. Reluctantly accompanied by three little kittens, Three Diablos, Puss must tame them before they endanger the mission.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/ptvbHUWpU8Nh6vrmSvjx4ESDgfC.jpg",
+      "rating": 0,
+      "videoUrl": "https://www.youtube.com/watch?v=jpkDG_yiKzo",
+      "category": "Anime"
+    },
+    {
+      "id": "1276073",
+      "title": "Bullet Train Explosion",
+      "description": "When panic erupts on a Tokyo-bound bullet train that will explode if it slows below 100 kph, authorities race against time to save everyone on board.",
+      "imageUrl": "https://image.tmdb.org/t/p/w500/uxYMN7egzwU9dQWmlm9tVTVpBbe.jpg",
+      "rating": 7.888,
+      "videoUrl": "https://www.youtube.com/watch?v=bYopWaT8Sr0",
+      "category": "Movie"
+    },
+    {
+      "id": "348",
+      "title": "Alice in Borderland",
+      "description": "With his two friends, a video-game-obsessed young man finds himself in a strange version of Tokyo where they must compete in dangerous games to win.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/72T2Jc8PSqjJY5sXyeI9ptTAtaL.jpg",
+      "rating": 8.163,
+      "videoUrl": "https://www.youtube.com/watch?v=EEJ7nUvXUYA",
+      "category": "Movie"
+    },
+    {
+      "id": "1124620",
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "description": "Tanjiro and his friends embark on a new mission to the Swordsmith Village, where they must confront powerful demons and protect the village from destruction.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/19NnlknxzjG5L743gJ63MqaagnQ.jpg",
+      "rating": 9.5,
+      "videoUrl": "https://www.youtube.com/watch?v=wyiZWYMilgk",
+      "category": "Anime"
+    },
+    {
+      "id": "1414048",
+      "title": "Day of Reckoning",
+      "description": "Put-upon lawman John Dorsey is on the verge of losing his wife and his job as sheriff, so he posses up with bullish U.S. Marshall Butch Hayden to hold outlaw Emily Rusk hostage. A battle of wills ensues as Emily turns the posse on themselves, but as her marauding husband and his gang approach, Emily and John realize they will need each other to survive.",
+      "imageUrl": "https://image.tmdb.org/t/p/w500/cVSjSQryFUERYSdOmdgJ2m0eBte.jpg",
+      "rating": 6.583,
+      "videoUrl": "https://www.youtube.com/watch?v=Vd0_nuniFuY",
+      "category": "Movie"
+    },
+    {
+      "id": "1153714",
+      "title": "Death of a Unicorn",
+      "description": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature’s miraculous curative properties.",
+      "imageUrl": "https://image.tmdb.org/t/p/w500/lXR32JepFwD1UHkplWqtBP1K79z.jpg",
+      "rating": 8.2,
+      "videoUrl": "https://www.youtube.com/watch?v=9cMIarrxLGs",
+      "category": "Movie"
+    },
+    {
+      "id": "1233413",
+      "title": "Sinners",
+      "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "imageUrl": "https://image.tmdb.org/t/p/w500/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg",
+      "rating": 7.7,
+      "videoUrl": "https://www.youtube.com/watch?v=bKGxHflevuk",
+      "category": "Movie"
+    },
+    {
+      "id": "1356236",
+      "title": "London Has Fallen",
+      "description": "In London for the Prime Minister's funeral, Mike Banning discovers a plot to assassinate all the attending world leaders.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/hK4nxaCzmmDtnNX4fHMoJuPi7CK.jpg",
+      "rating": 7.273,
+      "videoUrl": "https://www.youtube.com/watch?v=yJaVR3ZXJjs",
+      "category": "Movie"
+    },
+    {
+      "id": "335984",
+      "title": "Blade Runner 2049",
+      "description": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+      "imageUrl": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "rating": 7.579,
+      "videoUrl": "https://www.youtube.com/watch?v=geFtxCSz8xI",
+      "category": "Movie"
+    },
+    {
+      "id": "374720",
+      "title": "Dunkirk",
+      "description": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
+      "imageUrl": "https://image.tmdb.org/t/p/w500/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "rating": 7.45,
+      "videoUrl": "https://www.youtube.com/watch?v=F-eMt3SrfFU",
+      "category": "Movie"
+    },
+    {
+      "id": "1092899",
+      "title": "Prison Break",
+      "description": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/dAxpSS9fHkihvewzCWpzH3KlzeV.jpg",
+      "rating": 9.3,
+      "videoUrl": "https://www.youtube.com/watch?v=AL9zLctDJaU",
+      "category": "Movie"
+    },
+    {
+      "id": "23945",
+      "title": "The Girl Next Door",
+      "description": "Exceptionally ambitious high schooler Matthew has aspirations for a career in politics when he falls in love with his gorgeous 19-year-old neighbor, Danielle. But Matthew's bright future is jeopardized when he finds Danielle was once a porn star. As Danielle's past catches up with her, Matthew's love for her forces him to re-evaluate his goals.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/aVFUu0Layerj0h1w07xvxpEYutL.jpg",
+      "rating": 7.784,
+      "videoUrl": "https://www.youtube.com/watch?v=Bepny-WAndM",
+      "category": "Movie"
+    },
+    {
+      "id": "12261",
+      "title": "Lupin",
+      "description": "In the early 1990s, a group of thieves led by Lupin III, the grandson of the famous gentleman thief Arsène Lupin, steal a priceless diamond from a museum in Paris. The diamond is said to be cursed and brings misfortune to its owner. The group is pursued by Inspector Zenigata, who is determined to capture Lupin and his gang.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=ga0iTWXCGa0",
+      "rating": 8.5,
+      "category": "Movie"
+    },
+    {
+      "id": "55789",
+      "title": "Game of Thrones",
+      "description": "Set in the mythical land of Westeros, Game of Thrones follows the power struggles between noble families as they vie for control of the Iron Throne. With a sprawling cast of characters, political intrigue, and epic battles, the series explores themes of loyalty, betrayal, and the consequences of ambition.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/tsv3x6z1d7tsxnubW4VXXNazBnr.jpg",
+      "rating": 8.041,
+      "videoUrl": "https://www.youtube.com/watch?v=Ydi80YrCnPY",
+      "category": "Movie"
+    },
+    {
+      "id": "32980",
+      "title": "Dragon Ball Super",
+      "description": "With Majin Buu defeated half-a-year prior, peace returns to Earth, where Son Goku (now a radish farmer) and his friends now live peaceful lives. However, a new threat appears in the form of Beerus, the God of Destruction. Considered the most terrifying being in the entire universe, Beerus is eager to fight the legendary warrior seen in a prophecy foretold decades ago known as the Super Saiyan God. The series retells the events from the two Dragon Ball Z films, Battle of Gods and Resurrection 'F' before proceeding to an original story about the exploration of alternate universes.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/dz0QEGujd6f4EYF4cTaqRGahy16.jpg",
+      "rating": 8.2,
+      "videoUrl": "https://www.youtube.com/watch?v=FHgm89hKpXU",
+      "category": "Anime"
+    },
+    {
+      "id": "24686",
+      "title": "Delicious in Dungeon",
+      "description": "When young adventurer Laios and his party are attacked by a dragon, they lose their supplies and one of their members. To survive, they must venture into the dungeon to find food and rescue their friend.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/5CkgL90oKSZ2BHREUnGQAB2Zjeh.jpg",
+      "rating": 8.5,
+      "videoUrl": "https://www.youtube.com/watch?v=U3veqJewdto",
+      "category": "Anime"
+    },
+    {
+      "id": "18590",
+      "title": "Hunter x Hunter",
+      "description": "Twelve-year-old Gon Freecss aspires to become a Hunter, a specialist who takes on dangerous tasks such as discovering uncharted territories or locating rare items. He hopes to find his absentee father, who is also a Hunter.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/tolQj5yffSxkEGXusPwNcvYrbph.jpg",
+      "rating": 9.2,
+      "videoUrl": "https://www.youtube.com/watch?v=d6kBeJjTGnY",
+      "category": "Anime"
+    },
+    {
+      "id": "236270",
+      "title": "One Piece",
+      "description": "Luffy will do anything to get the One Piece and become King of the Pirates!",
+      "imageUrl": "https://image.tmdb.org/t/p/original/nTnO9LyAm20NMR4NBA5eeHaIskN.jpg",
+      "rating": 8.7,
+      "videoUrl": "https://www.youtube.com/watch?v=MCb13lbVGE0",
+      "category": "Anime"
+    },
+    {
+      "id": "73770",
+      "title": "Attack on Titan",
+      "description": "Many years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the heroic members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!",
+      "imageUrl": "https://image.tmdb.org/t/p/original/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+      "rating": 8.4,
+      "videoUrl": "https://www.youtube.com/watch?v=MGRm4IzK1SQ",
+      "category": "Anime"
+    },
+    {
+      "id": "24981",
+      "title": "The Good Doctor",
+      "description": "A young surgical resident with autism and savant syndrome is recruited into the surgical unit of a prestigious hospital.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/9OYu6oDLIidSOocW3JTGtd2Oyqy.jpg",
+      "rating": 8.832,
+      "videoUrl": "https://www.youtube.com/watch?v=lnY9FWUTY84",
+      "category": "Movie"
+    },
+    {
+      "id": "10224",
+      "title": "Jumanji: The Next Level",
+      "description": "As the gang returns to Jumanji to rescue one of their own, they discover that nothing is as they expect. The game has changed.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/4kh9dxAiClS2GMUpkRyzGwpNWWX.jpg",
+      "rating": 7.4,
+      "videoUrl": "https://www.youtube.com/watch?v=rBxcF-r9Ibs",
+      "category": "Movie"
+    },
+    {
+      "id": "60821",
+      "title": "Bleach",
+      "description": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/m8pWAmhgyND3IwhrwgZguAALaTB.jpg",
+      "rating": 9.423,
+      "videoUrl": "https://www.youtube.com/watch?v=78WIYzX_m98",
+      "category": "Anime"
+    },
+    {
+      "id": "24610",
+      "title": "Jujutsu Kaisen",
+      "description": "Yuuji Itadori is a high school student with extraordinary physical abilities. He joins the Occult Club to help his friends, but when they accidentally unseal a cursed object, he finds himself in a world of curses and sorcery.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/uyyMrkDgjnpGFM9dnJEYlUya7O0.jpg",
+      "rating": 8.5,
+      "videoUrl": "https://www.youtube.com/watch?v=kCUrfsbPLjc",
+      "category": "Anime"
+    },
+    {
+      "id": "71818",
+      "title": "The Lincoln Lawyer",
+      "description": "Sidelined after an accident, hotshot Los Angeles lawyer Mickey Haller restarts his career - and his trademark Lincoln - when he takes on a murder case.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/j0aQBsfhvgAAjT2qkUofcZ2a37m.jpg",
+      "rating": 8.359,
+      "videoUrl": "https://www.youtube.com/watch?v=u-sLh8-ohzc",
+      "category": "Movie"
+    },
+    {
+      "id": "11636",
+      "title": "Blacklist",
+      "description": "Raymond Reddington, one of the FBI's most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he's made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they existReddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/htJzeRcYI2ewMm4PTrg98UMXShe.jpg",
+      "rating": 8,
+      "videoUrl": "https://www.youtube.com/watch?v=JGBIimq1I3A",
+      "category": "Movie"
+    },
+    {
+      "id": "50605",
+      "title": "Squid Game",
+      "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/9d7o3m1B0R4BXyLFqd2FCzVM1z7.jpg",
+      "rating": 8.1,
+      "videoUrl": "https://www.youtube.com/watch?v=QDJCtcU6yKk",
+      "category": "Movie"
+    },
+    {
+      "id": "12734",
+      "title": "Law & Order: Special Victims Unit",
+      "description": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/zQqFS5kv6hLt49DJ0q0rLD3aS5R.jpg",
+      "rating": 7.94,
+      "videoUrl": "https://www.youtube.com/watch?v=ee8Jj1JwAoI",
+      "category": "Movie"
+    },
+    {
+      "id": "110088",
+      "title": "Spongebob Squarepants",
+      "description": "SpongeBob SquarePants is a American animated television series created by marine science educator and animator Stephen Hillenburg for Nickelodeon. The series chronicles the exploits and adventures of the title character and his various friends in the fictional underwater city of Bikini Bottom.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/5Hv7nXEUlDdc4BnFQVfRzTs7jDY.jpg",
+      "rating": 2,
+      "videoUrl": "https://www.youtube.com/watch?v=47ceXAEr2Oo",
+      "category": "Anime"
+    },
+    {
+      "id": "12224",
+      "title": "Supa Strikas",
+      "description": "With dreams of becoming Super League champions, a talented striker named Shakes and his football team take on rivals while going on global adventures.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/pz5R008wTMxLffv5Tlf3NOQdSOG.jpg",
+      "rating": 6.367,
+      "videoUrl": "https://www.youtube.com/watch?v=szM158ePeEM",
+      "category": "Anime"
+    },
+    {
+      "id": "104722",
+      "title": "Pluto",
+      "description": "When the world's seven most advanced robots and their human allies are murdered one by one, Inspector Gesicht soon discovers that he's also in danger.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/agf5sETjlO35s3EDA7wwGliZ5UW.jpg",
+      "rating": 8.748,
+      "videoUrl": "https://www.youtube.com/watch?v=9ez8lm9I26Y",
+      "category": "Anime"
+    },
+    {
+      "id": "46062",
+      "title": "Cyberpunk: Edgerunners",
+      "description": "In a dystopia where body modification is the norm, a street kid tries to survive by becoming an edgerunner, a mercenary outlaw also known as a cyberpunk.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/lqcDVZ8pyk08AVftMBildDR3QUK.jpg",
+      "rating": 9,
+      "videoUrl": "https://www.youtube.com/watch?v=x4ztgjvfU60",
+      "category": "Anime"
+    }
+  ]
+}

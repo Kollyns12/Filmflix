@@ -1,16 +1,24 @@
 import React, { useState } from 'react';
 
-const MovieCard = ({ id, title, imageUrl, description, rating: initialRating = 0, onClick }) => {
+const MovieCard = ({
+  id,
+  title,
+  imageUrl,
+  description,
+  rating: initialRating = 0,
+  onClick,
+  videoUrl
+}) => {
   const [liked, setLiked] = useState(false);
   const [rating, setRating] = useState(initialRating);
 
   const handleLikeClick = (e) => {
-    e.stopPropagation(); // Prevent click from triggering movie player
+    e.stopPropagation(); // Prevent click from triggering navigation
     setLiked(!liked);
   };
 
   const handleRating = async (e, newRating) => {
-    e.stopPropagation(); // Prevent triggering onClick
+    e.stopPropagation();
     setRating(newRating);
 
     try {
@@ -56,19 +64,30 @@ const MovieCard = ({ id, title, imageUrl, description, rating: initialRating = 0
         ))}
       </div>
 
+      {/* Like Button */}
       <button
         onClick={handleLikeClick}
-        className={`px-4 py-2 rounded-full text-white ${
+        className={`px-4 py-2 rounded-full text-white mr-2 ${
           liked ? 'bg-blue-500' : 'bg-gray-500'
         } transition-colors duration-200`}
       >
         {liked ? 'Liked' : 'Like'}
       </button>
+
+      {/* YouTube Button */}
+      {videoUrl && (
+        <a
+          href={videoUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          onClick={(e) => e.stopPropagation()}
+          className="inline-block mt-3 px-4 py-2 bg-red-600 text-white rounded hover:bg-red-700 transition"
+        >
+          Watch on YouTube
+        </a>
+      )}
     </div>
   );
 };
 
 export default MovieCard;
-
-
-

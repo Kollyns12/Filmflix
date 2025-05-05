@@ -119,6 +119,7 @@ function App() {
               imageUrl={movie.imageUrl}
               description={movie.description}
               rating={movie.rating}
+              videoUrl={movie.videoUrl}
               onClick={() => setSelectedMovie(movie)}
             />
           ))}
